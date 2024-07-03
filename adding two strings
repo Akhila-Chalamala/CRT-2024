@@ -12,3 +12,21 @@ System.out.println(Integer.parseInt(str1)+Integer.parseInt(str2));
 
 
 op:797
+
+
+
+
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Test {
+    public static void main(String[] args) 
+{
+Scanner s=new Scanner(System.in);
+                System.out.println(20+20);
+                               System.out.println("wel+come");
+                        System.out.println("wel"+20);
+
+ 
+    }
+}
