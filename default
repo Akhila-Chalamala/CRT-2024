@@ -1,0 +1,33 @@
+import java.util.*;
+class Default{
+void show(){
+System.out.println("show method");
+}
+public static void main(String args[])
+{
+Test t1=new Test();
+t1.show();
+}
+}
+
+
+
+
+
+
+import java.util.*;
+class Default1
+
+{
+void show(){
+System.out.println("show method");
+}
+Test()
+{ }
+public static void main(String args[])
+{
+Test t1=new Test();
+t1.show();
+
+}
+}
